@@ -17,3 +17,6 @@ The project consists of two competing networks: 1. **The Generator:** Learns to 
 
 As training progresses through the epochs, the generator evolves from producing random noise to clear, recognizable digits.
 
+![Model Output](./images/output.png)
+
+**Images generated after training for 20 epochs**
